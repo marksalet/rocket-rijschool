@@ -1,0 +1,74 @@
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family:Arial;
+}
+#header {
+    background-color:#0066FF;
+    color:white;
+    padding:5px;
+    border: 2px solid black;
+    height: 100px;
+}
+    
+#linker {
+   float: left; 
+    
+    
+}
+
+#rechter {
+    float: right;
+    
+    
+    
+}
+#submenu {
+    line-height:30px;
+    background-color:white;
+    height:150px;
+    width:150px;
+    margin: 20px;
+    margin-top: 40px;
+    padding:5px; 
+    border: 2px solid black;
+}
+#footer {
+    background-color:#0066FF;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    border: 2px solid black;
+}
+#plaatje {
+    line-height:30px;
+    background-color:white;
+    height:150px;
+    width:150px;
+    margin: 20px;
+    padding:5px; 
+    border: 2px solid black;
+    
+}
+#section {
+    width:1000px;
+    float: none;
+    padding:5px; 
+    border: 2px solid black;
+    margin: 40px;
+}
+#contact {
+      line-height:30px;
+    background-color:white;
+    height:150px;
+    width:150px;
+    margin: 20px;
+    padding:5px; 
+    border: 2px solid black;
+    
+    
+}
+#nav {
+    margin-left:925px;
+}

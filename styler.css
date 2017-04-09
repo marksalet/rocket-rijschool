@@ -1,0 +1,186 @@
+body {
+
+    font-family:Arial;
+    
+}
+    a:link    {color:black; background-color:transparent; text-decoration:none}
+    a:visited {color:black; background-color:transparent; text-decoration:none}
+    a:active  {color:black; background-color:transparent; text-decoration:none}
+
+
+#header {
+    border-radius: 0px;
+    background-color:#0066FF;
+    color:white;
+    padding:5px;
+    border: 0px solid black;
+    height: 9%;
+    width: 100%;
+}
+#logo1 {
+    background-color:#0066FF;
+    color:white;
+    padding:5px;
+    border: 0px solid black;
+    height: 100px;
+}
+#border {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+#linker {
+    float: left; 
+    margin-left: 290px;
+    
+}
+
+#rechter {
+    float: right;
+    margin-right: 290px;
+    
+}
+#submenu {
+    border-radius: 0px;
+    line-height:30px;
+    height:150px;
+    width:350px;
+    margin:none;
+    margin-top: 40px;
+    padding:5px; 
+    border: 0px solid black;
+    margin-left:-100px;
+    
+}
+#footer {
+    border-radius: 0px;
+    background-color:#0066FF;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    border: 0px solid black;
+    margin-top:800px;
+}
+#plaatje {
+    border-radius: 0px;
+    line-height:30px;
+    background-color:white;
+    height:290px;
+    width:350px;
+    margin:20px;
+    padding:5px; 
+    border: 0px solid black;
+    margin-left:-100px;
+}
+#section {
+    border-radius: 0px;
+    width:1000px;
+    float: none;
+    padding:5px; 
+    border: 0px solid black;
+    margin-top: 40px;
+    text-align:center;
+    
+    
+}
+#contact {
+    border-radius: 0px;
+    line-height:30px;
+    background-color:white;
+    height:300px;
+    width:350px;
+    margin: 20px;
+    padding:5px; 
+    border: 0px solid black;
+    margin-left:-100px;
+    margin-top:25px;
+    
+}
+#nav {
+    margin-left:900px;
+    margin-top: -28px;
+}
+#plaatje1 {
+    margin:-5px;
+    border-radius:0px;
+    width:360px;
+    height:300px;
+}
+#titel {
+    margin-left:150px;
+    margin-top: -100px;
+}
+#plaatje2 {
+    width:100px;
+    height:100px;
+    border:3px solid black;
+    margin-top:-3;
+}
+
+#inlog {
+    float:right;
+    margin-top:-75px;
+    margin-right:10px;
+    font-size:13px;
+
+}
+
+#nav ul ul {
+	display: none;
+}
+
+	#nav ul li:hover > ul {
+		display: block;
+	}
+
+#nav ul {
+	background: #0066FF; 
+	padding: 0 20px;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+	#nav ul:after {
+		content: ""; clear: both; display: block;
+	}
+	
+#nav ul li {
+	float: left;
+}
+	#nav ul li:hover {
+		background: #ADD6FF;
+	}
+		#nav ul li:hover a {
+			color: white;
+		}
+	
+	#nav ul li a {
+		display: block; padding: 10px 20px;
+		color: white; text-decoration: none;
+	}
+
+#nav ul ul {
+	background: #0066ff; border-radius: 0px; padding: 0;
+	position: absolute; top: 100%;
+}
+	#nav ul ul li {
+		float: none; 
+		border-top: 1px solid #0066ff;
+		border-bottom: 1px solid #0066ff;
+		position: relative;
+	}
+		#nav ul ul li a {
+			padding: 10px 20px;
+			color: white;
+		}
+			#nav ul ul li a:hover {
+				background: #ADD6FF;
+			}
+
+#nav ul ul ul {
+	position: absolute; left: 100%; top:0;
+}
+#contactformuliertekst         {
+    text-align: ;
+}

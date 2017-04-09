@@ -1,0 +1,31 @@
+body {
+    color: black;
+    font-size: 21px;
+    font-family: Arial;
+}
+
+#logo {
+    background-color:#0066FF;
+    color:white;
+    padding:5px;
+    height: 100px;
+    margin-left: 50%;
+}
+
+#plaatje {
+    border-radius:0px;
+    width:360px;
+    height:300px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+#tekst {
+    width:1000px;
+    float: none;
+    padding:5px; 
+    border: 0px solid black;
+    top: 500px;
+    margin-left: 28%;
+}
